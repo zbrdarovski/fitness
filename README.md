@@ -43,3 +43,6 @@ values-mk-rMK, values-night, values-sl-rSI: Configuration folders for different 
 
 `./app/src/main/AndroidManifest.xml` is a crucial component of any Android application. It provides essential information about the app to the Android system, including app permissions, components (such as activities, services, and broadcast receivers), themes, and other configurations.
 
+License
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
